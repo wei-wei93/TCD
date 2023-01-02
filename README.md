@@ -1,8 +1,8 @@
 # Bayesian Matting
 
 ### Authors
-Emmanuel Akinrintoyo<br/>
 Wei Wei<br/>
+Emmanuel Akinrintoyo<br/>
 Sagnik Mukhopadhyay
 ### Date: 05/04/2022
 
