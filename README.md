@@ -48,6 +48,3 @@ Please contact the developers should you have any questions, issues or problems 
 
 ## License
 Trinity College Dublin © 2022
-
-## Live Site
-The content can be found at https://wei-wei93.github.io/TCD-bayesianMatting/
